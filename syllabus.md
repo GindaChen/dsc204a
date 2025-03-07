@@ -30,7 +30,7 @@ A major component of this course is hands-on Python programming to implement dat
 
 ## Logistics
 - **Lectures**: MWF 11:00 AM - 11:50 AM.
-- **Location**: [CENTR 214](https://maps.app.goo.gl/3xRUTjk3cyVA7wAr6).
+- **Location**: [CENTR 214](https://maps.app.goo.gl/znFRbd8TLGnTMdjk9).
 - **Instructor**: [Umesh Bellur](https://ubellur.github.io/); Office: HDSI 242.
 
 ## Course Content and Format
