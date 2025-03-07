@@ -61,6 +61,8 @@ Instructor: Umesh Bellur, UC San Diego, Spring 2025
     }
   });
 
+  
+
     window.addEventListener("DOMContentLoaded", (event) => {
       onLoad();
   });
