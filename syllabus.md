@@ -26,7 +26,7 @@ The course is organized into four parts, covering the following topics.
 4. **Machine Learning Systems**: GPUs, TensorFlow, PyTorch, data and model parallelism, LLM training and serving.
 
 
-A major component of this course is hands-on Python programming to implement data exploration, data preparation, distributed deep learning training and inference, and model selection pipelines on large real-world data using popular libraries (e.g., Ray, PyTorch) and cloud resources (e.g., AWS/GCP).
+A significant component of this course is hands-on Python programming to implement data exploration, data preparation, distributed deep learning training and inference, and model selection pipelines on large real-world data using popular libraries (e.g., Ray, PyTorch) and cloud resources (e.g., AWS/GCP).
 
 ## Logistics
 - **Lectures**: MWF 11:00 AM - 11:50 AM.
@@ -36,7 +36,7 @@ A major component of this course is hands-on Python programming to implement dat
 ## Course Content and Format
 ### Lectures
 The class meets 3 times a week for 50-minute lectures in person.
-  - Attending the lectures is not mandatory but highly encouraged. All lectures will be automatically [podcast here](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00) afterward.
+  - Attending the lectures is highly encouraged. 
   - There will be scribe notes required for each lecture. Students should form groups of 2 - 4 people and sign up one slot. See [details below](#scribe-notes).
   - There will be reading summary required per week. Everyone needs to submit their reading summary. See [details below](#reading-summary).
   - We will use [Piazza](https://piazza.com/ucsd/spring2025/dsc204a) for asynchronous discussions and questions.
@@ -45,12 +45,12 @@ The class meets 3 times a week for 50-minute lectures in person.
   - See the [assignments page](assignments.md) for updates on the PA schedule and details.
   - There are **no late days** for the PAs. Plan your work accordingly.
 
-### Exams 
-  - We will have a midterm exam to be announced. 
-  - There will be a final exam.
-  - Tentative date: TBA
-  - If you miss an exam, you will get no credit for it, unless you notify the instructor in advance with a university approved reason and receive a makeup exam slot.
-  - The final exam is open books/Web/etc. The only requirement is you should neither give nor receive help from anyone by any means.
+### Exams: 
+  - We will have at least one midterm exam.  
+  - There will be a final exam. Date(s) to be announced for all exams.
+  - We will have in class quizzes.
+  - If you miss an exam or quiz, you will get no credit for it, unless you notify the instructor in advance with a university approved reason and receive a makeup exam slot.
+  - Exams will be open notes. The only requirement is you should neither give nor receive help from anyone by any means.
 
 ### Scribe notes
 Each student is required to scribe for a small number of lectures (most likely just 1). Most lectures will have at least 3 students acting as scribes, and they should work as a team. 
@@ -60,21 +60,17 @@ These notes should be 4-8 pages long, and must be submitted electronically.
 We only require one set of notes from the scribe team. 
 The instructors will then audit your notes, and post them to the [class home page](#) for everyone's benefit. 
 As long as your scribe notes are of sufficient standard, you will be awarded full credit for scribe duties. 
-If your notes have errors or are otherwise not up to standard, we will inform you and give you **one chance** to correct them. 
-ChatGPT is highly recommended to polish the writing of your scribe notes.
 You will receive zero credit if you fail to submit your notes.
-  - Sign-up: [Spreadsheet](https://docs.google.com/spreadsheets/d/1aW8n-LadBWtrBHICvIJjZ4c8Xy623lSsTEeW4a0hbZ0/edit?usp=drive_link)
+  - Sign-up: [Spreadsheet](#)
   - Template: [Overleaf latex template](https://www.overleaf.com/read/tfpkfgxxpgyd#91f059)
-  - Submission: Submit a pull request to [course website repo](https://github.com/hao-ai-lab/dsc204a-w24) for review.
-  - Due: 11:59 pm PT of the day 10 days from the lecture
+  - Submission and deadline: To be announced.
 
 ### Reading Summary
 Starting from the second week, the instructor/TA team will provide one required reading and multiple optional readings prior to each lecture. The required readings for this class are compulsory. The optional readings are highly recommended.
 At the end of each week, you are to submit a 2-page summary of the readings you have done for all the required readings of all lectures of the week. 
 These reading summaries are a requirement for this class, and they must be submitted via Gradescope by you in order to receive credit. 
-However, you have 5 grace days on which you can submit the summaries late via email (e.g. if you need to absent from class for whatever reason) with no penalty.
 Your summary should be written at a high level, and should focus on the main point of the readings (i.e. avoid complicated math). As long as your summary is reasonable, you will be given full credit.
-There will be no readings for the last week (March 11 - March 15) of the instruction. Hence, in total, you need to submit 8 reading summary (week 2 - week 9). 
+There will be no readings for the last week (March 11 - March 15) of the instruction. Hence, in total, you need to submit 8 reading summaries (week 2 - week 9). 
 
 You are encouraged to use ChatGPT to improve the writing of your summary; but you should avoid using software like ChatPDF to generate a summary without actually finishing any readings by yourself. 
 The TA team will perform quick scans on all summaries and contact you if they notice the summary seems to be entirely generated by ChatGPT (the writing style is easily detectable). 
@@ -101,11 +97,11 @@ We appreciate everyone being actively involved in the class! There are several w
 ## Grading
 
 ### Components 
-- Programming Assignments: 12% + 16% + 16%
-- Final Exam: 36%
-- Scribe Duties: 8%
-- Reading summary: 12%
-- Extra Credit: 5%
+- Programming Assignments: 8% + 10% + 12%
+- Exam: 50%
+- Scribe Duties: 5%
+- Quizzes: 15%
+- Extra Credit - to be decided. 
 
 
 ### Cutoffs 
