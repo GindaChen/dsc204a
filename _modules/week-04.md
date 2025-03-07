@@ -24,6 +24,6 @@ status: Active
 
 : **3**{: .label} Collective Communication - 1
 <!--  : [Slides](assets/slides/10_collectives.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/11) &#8226; [Scribe Notes](#) -->
-: *Reading:* N/A
+: *Reading:* 
 * [Collective communication: theory, practice, and experience Section 1-6 (required)](https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf)
 * [Collective communication: theory, practice, and experience Section 7-10 (optional)](https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf)
