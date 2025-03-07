@@ -29,9 +29,9 @@ The course is organized into four parts, covering the following topics.
 A major component of this course is hands-on Python programming to implement data exploration, data preparation, distributed deep learning training and inference, and model selection pipelines on large real-world data using popular libraries (e.g., Ray, PyTorch) and cloud resources (e.g., AWS/GCP).
 
 ## Logistics
-- **Lectures**: MWF 10:00 AM - 10:50 AM.
-- **Location**: [PCYNH 122](https://maps.app.goo.gl/3xRUTjk3cyVA7wAr6).
-- **Instructor**: [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/); Office: HDSI 440.
+- **Lectures**: MWF 11:00 AM - 11:50 AM.
+- **Location**: [CENTR 214](https://maps.app.goo.gl/3xRUTjk3cyVA7wAr6).
+- **Instructor**: [Umesh Bellur](https://ubellur.github.io/); Office: HDSI 242.
 
 ## Course Content and Format
 ### Lectures
@@ -39,18 +39,16 @@ The class meets 3 times a week for 50-minute lectures in person.
   - Attending the lectures is not mandatory but highly encouraged. All lectures will be automatically [podcast here](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00) afterward.
   - There will be scribe notes required for each lecture. Students should form groups of 2 - 4 people and sign up one slot. See [details below](#scribe-notes).
   - There will be reading summary required per week. Everyone needs to submit their reading summary. See [details below](#reading-summary).
-  - We will use [Piazza](https://piazza.com/ucsd/winter2024/dsc204a) for asynchronous discussions and questions.
+  - We will use [Piazza](https://piazza.com/ucsd/spring2025/dsc204a) for asynchronous discussions and questions.
 
 ### 3 Programming Assignments (PAs)
   - See the [assignments page](assignments.md) for updates on the PA schedule and details.
   - There are **no late days** for the PAs. Plan your work accordingly.
 
-### Exams
-  - To make your life easier: **There is NO midterm**. As an alternative, we ask for scribe notes and reading summary. 
-  - There will be a final exam. The final exam will be held as a Canvas Quiz. 
-  - Tentative date: **Friday, March 22, 8 - 11 am, PT**.
-  - The exams will have primarily multiple choice questions (MCQ). Quantitative/longer problems wil exist but only the final answer may need to be selected. Some questions will have partial credits.
-  - The guideline for time per question is a max of 1min per point. The points of each question will be calibrated accordingly.
+### Exams 
+  - We will have a midterm exam to be announced. 
+  - There will be a final exam.
+  - Tentative date: TBA
   - If you miss an exam, you will get no credit for it, unless you notify the instructor in advance with a university approved reason and receive a makeup exam slot.
   - The final exam is open books/Web/etc. The only requirement is you should neither give nor receive help from anyone by any means.
 
