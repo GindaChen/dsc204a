@@ -62,7 +62,7 @@ The instructors will then audit your notes, and post them to the [class home pag
 As long as your scribe notes are of sufficient standard, you will be awarded full credit for scribe duties. 
 You will receive zero credit if you fail to submit your notes.
   - Sign-up: [Spreadsheet](#)
-  - Template: [Overleaf latex template](https://www.overleaf.com/read/tfpkfgxxpgyd#91f059)
+  - Template: [Overleaf latex template](https://www.overleaf.com/read/xfkmrdrzxqyy#ed68ba)
   - Submission and deadline: To be announced.
 
 ### Reading Summary
