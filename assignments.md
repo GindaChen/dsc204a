@@ -7,29 +7,25 @@ nav_order: 980
 
 # Programming Assignments (PA) 
 - PA1: Getting Started with Modin and Ray
-    - Release Date: Monday, 01/18/2024
-    - [Problem Statement and Rubric](assets/assignments/Assignment_1.pdf)
-    - For starter code, please check Canvas.
-    - Discussion by TA: 01/30/2024 (tentative)
-    - Due Date: 02/10/2024
+    - Release Date: TBA
+    - [Problem Statement and Rubric](#)
+    - Discussion by TA: TBA
+    - Due Date: TBA
     - [Discussion Session Slides](https://docs.google.com/presentation/d/1CdgJRWoqFlXc-nqZXx7dLSXOn4jO1WDxhSASRS7auRQ/edit?usp=sharing)
-    - [Discussion Session Notebook](https://colab.research.google.com/drive/1O82mt7sjXoGD8z1U5zj22liU8evb6qtt?usp=sharing)
 
 - PA2: Multi-node data processing and collective communication with Ray
-    - Release Date: Monday, 02/19/2024
-    - [Problem Statement and Rubric](assets/assignments/Assignment_2.pdf)
-    - For code and data, please check [Datahub](https://datahub.ucsd.edu)
-    - Discussion by TA: 02/20/2024 (tentative)
-    - Due Date: 03/04/2024 11:59 PM
+    - Release Date: TBA 
+    - [Problem Statement and Rubric](#)
+    - Discussion by TA: TBA
+    - Due Date: TBA
     - [Discussion Session Slides](assets/discussions/pa2_discussion.pdf)
     - [Discussion Session Notebook](assets/discussions/pa2_discussion.ipynb)
 
 - PA2: Multi-node data processing and collective communication with Ray
-    - Release Date: Monday, 03/05/2024
-    - [Problem Statement and Rubric](assets/assignments/Assignment_3.pdf)
+    - Release Date: TBA
+    - [Problem Statement and Rubric](#)
     - For code and data, please check [Datahub](https://datahub.ucsd.edu)
-    - Due Date: 03/13/2024 01:00 PM
-    - **Note**: The assignment is due in the middle of the day to avoid peak traffic on DataHub. It's 1 PM, not 1 AM!
+    - Due Date: TBA
 
 <!--
 {:.no_toc}
@@ -51,7 +47,6 @@ nav_order: 980
     - Due Date: 06/09/2023 
 -->
 
-<!--
 ### Instructions and Caveats
 - Team composition:
     - You can work on projects in teams of between 1-3 individuals
@@ -63,4 +58,3 @@ nav_order: 980
     - Do not go searching for any code posted online by other students or prior editions. We will use advanced program analysis tools to compare your code submissions. These go well beyond basic string or syntactic comparisons to catch plagiarism.
     - If plagiarism is detected in your code or if any other form of academic integrity violation is identified, you will get zero for that component of your score and get downgraded substantially. I will also notify the University authorities for appropriate disciplinary action to be taken, up to and including expulsion from the University.
 - There are no late days for the programming assignments. So, plan your work accordingly! 
--->

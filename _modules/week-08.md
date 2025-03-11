@@ -4,7 +4,8 @@ class: DSC204A
 status: Active
 ---
 
-: **1**{: .label} Batch processing - 2
+Class 1
+: {: .label} Batch processing - 2
 <!--  : [Slides](assets/slides/18_batch-processing-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/20) &#8226; [Scribe Notes](#) -->
 : *Reading:*
 * [Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters (Required)](https://www.usenix.org/system/files/conference/hotcloud12/hotcloud12-final28.pdf)
@@ -14,7 +15,8 @@ status: Active
 * [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs (Optional)](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-167.pdf)
 
 
-: **2**{: .label} Streaming processing - 1
+Class 2
+: {: .label} Streaming processing - 1
 <!--  : [Slides](assets/slides/19_stream-processing-1.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/21) &#8226; [Scribe Notes] -->(assets/scribe_notes/Feb_28_scribe_note.pdf)
 : *Reading:* 
 * [Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters (Required)](https://www.usenix.org/system/files/conference/hotcloud12/hotcloud12-final28.pdf)
@@ -24,8 +26,8 @@ status: Active
 * [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs (Optional)](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-167.pdf)
 
 
-
-: **3**{: .label} Streaming processing - 2
+Class 3
+: {: .label} Streaming processing - 2
 <!--  : [Slides](assets/slides/20_stream-processing-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/22) &#8226; [Scribe Notes](assets/scribe_notes/Mar_1_scribe_note.pdf) -->
 : *Reading:* 
 * [Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters (Required)](https://www.usenix.org/system/files/conference/hotcloud12/hotcloud12-final28.pdf)

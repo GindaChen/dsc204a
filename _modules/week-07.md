@@ -4,7 +4,8 @@ class: DSC204A
 status: Active
 ---
 
-: **1**{: .label} 
+Class 1
+: {: .label} Consensus Algorithms 
 <!--  : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#) -->
 : *Reading:*
 * [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications (required)](assets/readings/chord_sigcomm.pdf)
@@ -12,8 +13,8 @@ status: Active
 * [The Raft Consensus Algorithm (optional)](https://raft.github.io/)
 
 
-
-: **2**{: .label} 
+Class 2
+: {: .label} More on Consensus
 <!--  : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](assets/scribe_notes/Feb_21_scribe_note.pdf) -->
 : *Reading:* 
 * [MapReduce: Simplified Data Processing on Large Clusters (required)](assets/readings/mapreduce.pdf)
@@ -21,7 +22,7 @@ status: Active
 
 
 
-Feb 23
+Class 3
 : **3**{: .label} Batch Processing - 1
 <!--  : [Slides](assets/slides/17_batch-processing-1.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/19) &#8226; [Scribe Notes](assets/scribe_notes/Feb_23_scribe_note.pdf) -->
 : *Reading:* 
