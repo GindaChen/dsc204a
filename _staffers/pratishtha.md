@@ -1,7 +1,7 @@
 ---
 name: Pratishtha Gaur
 pronouns: she/her
-role: TA
+role: Teach Assistant
 email: p1gaur@ucsd.edu
 photo: staff/pratishtha.jpg
 office-hours: Every Thu 2-3pm at HDSI 150 and <a href ="https://ucsd.zoom.us/j/93849473927">Online</a>.
