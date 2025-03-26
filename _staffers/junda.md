@@ -1,7 +1,7 @@
 ---
 name: Junda Chen
 pronouns: he/him
-role: Teaching Assistant
+role: Teach Assistant
 email: junda@ucsd.edu
 photo: staff/junda.jpg
 office-hours: TBD and with <a href ="https://ucsd.zoom.us/j/94586463568">Online</a>.
