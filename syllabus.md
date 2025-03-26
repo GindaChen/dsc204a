@@ -18,6 +18,7 @@ description: >-
 
 ---
 
+
 The course is organized into four parts, covering the following topics.
 
 1. **Foundations of Data Systems**: Data models, big data storage and retrieval, and how to encode information when you store data. 
