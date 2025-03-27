@@ -27,7 +27,7 @@ The course is organized into four parts, covering the following topics.
 4. **Machine Learning Systems**: GPUs, TensorFlow, PyTorch, data and model parallelism, LLM training and serving.
 
 
-A significant component of this course is hands-on Python programming to implement data exploration, data preparation, distributed deep learning training and inference, and model selection pipelines on large real-world data using popular libraries (e.g., Ray, PyTorch) and cloud resources (e.g., AWS/GCP).
+A significant component of this course is hands-on Python programming to implement data exploration, data preparation, distributed deep learning training and inference, and model selection pipelines on large real-world data using popular libraries (e.g., Ray, PyTorch).
 
 ## Logistics
 - **Lectures**: MWF 11:00 AM - 11:50 AM.
