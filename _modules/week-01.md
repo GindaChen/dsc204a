@@ -8,8 +8,6 @@ Class 1
 : {: .label} Introduction
   <!--: [Slides](assets/slides/1_Logistics.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00) -->
 : *Reading:* Ch. 1, 2.1-2.3, 2.12, 4.1, and 5.1-5.5 of [OS Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-: **Survey**{: .label .label-lab} 
-  <!-- [Beginning of Quarter Survey](https://forms.gle/5KSrMYuhWL8xaV478) -->
 
 Class 2
 : {: .label} Basics: Computer Organization, Operating systems, Storage
