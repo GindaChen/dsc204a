@@ -18,7 +18,7 @@ description: Scalable Data Systems
 author: Umesh Bellur
 email: ubellur@ucsd.edu
 baseurl: '/dsc204a' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://ubellur.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor", "bundle"]
 #logo: "/data8logo.png"
 
@@ -30,7 +30,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Office Hours:
-    - '/dsc204a/officehours'
+    - '/officehours'
   Canvas:
     - 'https://canvas.ucsd.edu/courses/65050'
   Piazza:
