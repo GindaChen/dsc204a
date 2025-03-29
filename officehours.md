@@ -33,7 +33,7 @@ You are welcome to show up to any office hours. Please see the calendar for offi
   </style>
 
 <div class="calendar-container">
-  <iframe src="https://calendar.google.com/calendar/embed?src=c_cb64773b3f8062687c1b7b8bbfc20b18d142747f3675845a58e381fd27bd58da%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?src=c_5a5e252b7229fcbfd42bc11f4af46520dc51747e8f148ef3ed7c8331b4d25666%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 
 <script src="../assets/darkmode.js"></script>
