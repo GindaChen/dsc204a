@@ -6,7 +6,7 @@ status: Active
 
 Class 1
 : {: .label} Introduction
-  <!--: [Slides](assets/slides/1_Logistics.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00) -->
+  : [Slides](https://drive.google.com/file/d/1tqi7Ic3I2n7i7Nt4zVe8K6TRDQ7xXxZO/view?usp=share_link) &#8226; <!--[Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00) -->
 : *Reading:* Ch. 1, 2.1-2.3, 2.12, 4.1, and 5.1-5.5 of [OS Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 Class 2
