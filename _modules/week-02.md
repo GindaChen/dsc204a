@@ -8,6 +8,7 @@ Class 1
 : {: .label} Basics: OS - 1
   <!--: [Slides](assets/slides/4_os-1.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/4) &#8226; [Scribe Notes](assets/scribe_notes/Jan_17_scribe_note.pdf) -->
 : *Reading:* 
+* [OSTEP Chapter 2 (required)](https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf)
 * [OSTEP Chapter 4 (required)](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf)
 * [OSTEP Chapter 6 (optional)](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf)
 * [OSTEP Chapter 7 (optional)](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf)
