@@ -7,12 +7,12 @@ status: Active
 Class 1
 : {: .label} Introduction
   : [Slides](https://drive.google.com/file/d/1tqi7Ic3I2n7i7Nt4zVe8K6TRDQ7xXxZO/view?usp=share_link) &#8226; <!--[Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00) -->
-: *Reading:* Ch. 1, 2.1-2.3, 2.12, 4.1, and 5.1-5.5 of [OS Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+: *Reading:* Class Material
 
 Class 2
 : {: .label} Basics: Data Representation
   : [Slides](https://drive.google.com/file/d/1ZNi8TMDzvfRV-OMgWANBpJtU9IQKk60E/view?usp=share_link) &#8226; <!-- [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/2) &#8226; [Scribe Notes](assets/scribe_notes/Jan_10_scribe_note.pdf) -->
-: *Reading:* Ch. 1, 2.1-2.3, 2.12, 4.1, and 5.1-5.5 of [OS Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+: *Reading:* Class material
   <!-- : **Homework**{: .label .label-homework} Homework 01 (Due 1/24) -->
 
 Class 3
