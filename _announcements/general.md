@@ -1,7 +1,7 @@
 ---
-title: Week 0 Announcements
+title: Announcements
 week: 0
-date: 2025-03-31
+date: 2025-04-02
 ---
 
 * Welcome to the Spring 2025 offering of DSC 204A! We're excited to work with you throughout the quarter!
