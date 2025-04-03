@@ -91,7 +91,7 @@ The TA team will perform quick scans on all summaries and contact you if they no
 ## Grading
 
 ### Components 
-- Programming Assignments:  9% + 12% + 14% = 35%
+- Programming Assignments:  (35%) 9% + 12% + 14%
 - Exams: 45%
 - Quizzes: 5%
 - Scribe Duties: 5%
