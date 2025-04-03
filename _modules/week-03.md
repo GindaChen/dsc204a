@@ -7,7 +7,7 @@ Class 1
 : {: .label} Introduction to Cloud Computing 
   <!-- : [Slides](assets/slides/6_os-2.pdf) &#8226; [Recording](#) -->
 : *Reading:*
-* [Understanding the cloud computing stack: SaaS, PaaS, and IaaS (required)](https://docs.rackspace.com/docs/understanding-the-cloud-computing-stack-saas-paas-iaas)
+* [Understanding the cloud computing stack: SaaS, PaaS, and IaaS (required)](https://www.linkedin.com/pulse/understanding-cloud-computing-stack-saas-paas-iaas-big-steven-murhula/)
 
 Class 2
 : {: .label} Cloud Computing Basics
