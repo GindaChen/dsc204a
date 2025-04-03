@@ -1,6 +1,6 @@
 ---
 title: Announcements
-week: 0
+week: 1
 date: 2025-04-02
 ---
 
