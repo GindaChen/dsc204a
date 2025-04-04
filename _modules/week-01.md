@@ -16,7 +16,7 @@ Class 2
   <!-- : **Homework**{: .label .label-homework} Homework 01 (Due 1/24) -->
 
 Class 3
-: {: .label} Basics: Computer Organization, Operating systems, Storage
-  <!--  : [Slides](assets/slides/3_storage.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/3) &#8226; [Scribe Notes](assets/scribe_notes/Jan_12_scribe_note.pdf) -->
+: {: .label} Basics: Computer Organization, Processor, Memory and Storage
+  : [Slides](https://drive.google.com/file/d/1PcvfQNOM-F349PbuoccGxf2mPRn1b5W6/view?usp=share_link) &#8226;<!-- [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/3) &#8226; [Scribe Notes](assets/scribe_notes/Jan_12_scribe_note.pdf) -->
 : *Additional Reading:* [Inferential Thinking](https://inferentialthinking.com/chapters/02/causality-and-experiments.html)
   <!--: **Homework**{: .label .label-homework} Homework 01 (Due 1/24) -->
