@@ -7,25 +7,25 @@ nav_order: 980
 
 # Programming Assignments (PA) 
 - PA1: Getting Started with Modin and Ray
-    - Release Date: TBA
+    - Release Date: Friday, 11th April
     - [Problem Statement and Rubric](#)
-    - Discussion by TA: TBA
-    - Due Date: TBA
+    - Discussion by TA: April 14th (time and zoom link TBA)
+    - Due Date: April 25th
     - [Discussion Session Slides](https://docs.google.com/presentation/d/1CdgJRWoqFlXc-nqZXx7dLSXOn4jO1WDxhSASRS7auRQ/edit?usp=sharing)
 
 - PA2: Multi-node data processing and collective communication with Ray
-    - Release Date: TBA 
+    - Release Date: April 26th 
     - [Problem Statement and Rubric](#)
     - Discussion by TA: TBA
-    - Due Date: TBA
+    - Due Date: May 10th
     - [Discussion Session Slides](assets/discussions/pa2_discussion.pdf)
     - [Discussion Session Notebook](assets/discussions/pa2_discussion.ipynb)
 
 - PA2: Multi-node data processing and collective communication with Ray
-    - Release Date: TBA
+    - Release Date: May 11th
     - [Problem Statement and Rubric](#)
-    - For code and data, please check [Datahub](https://datahub.ucsd.edu)
-    - Due Date: TBA
+    - Discussion by TA: TBA
+    - Due Date: June 1st
 
 <!--
 {:.no_toc}
@@ -48,11 +48,6 @@ nav_order: 980
 -->
 
 ### Instructions and Caveats
-- Team composition:
-    - You can work on projects in teams of between 1-3 individuals
-    - Submit your team decision via a Google Form we provide before PA0's release. One submission suffices per team. 
-    - Team decisions cannot be changed.
-    - The TAs will then confirm your team memberships and team IDs. 
 - Academic integrity: 
     - It is okay to discuss the assignment with your peers at a conceptual level. It is also okay to post conceptual or high-level questions, logistical questions, and useful references on Piazza. But do not share any code across teams and do not post any of your solution code for discussion. A team's code submission must be entirely their own.
     - Do not go searching for any code posted online by other students or prior editions. We will use advanced program analysis tools to compare your code submissions. These go well beyond basic string or syntactic comparisons to catch plagiarism.
