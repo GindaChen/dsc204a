@@ -16,7 +16,7 @@ Class 1
 
 Class 2
 : {: .label} Basics: OS - 2
-: [Slides](https://drive.google.com/file/d/1KHCpgTs_8pZr8MiQGILlKfWV_OsyfGc8/view?usp=share_link) &#8226; <!--[Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/5) &#8226; [Scribe Notes](assets/scribe_notes/Jan_19_scribe_note.pdf) -->
+  : [Slides](https://drive.google.com/file/d/1KHCpgTs_8pZr8MiQGILlKfWV_OsyfGc8/view?usp=share_link) &#8226; <!--[Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/5) &#8226; [Scribe Notes](assets/scribe_notes/Jan_19_scribe_note.pdf) -->
 : *Reading:* 
 * [OSTEP Chapter 18 (required)](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf)
 * [OSTEP Chapter 15 (optional)](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-mechanism.pdf)
