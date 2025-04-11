@@ -3,13 +3,15 @@ title: Week 3
 class: DSC204A
 status: Active
 ---
-<!--Class 1
-: {: .label} Introduction to Cloud Computing 
-   : [Slides](assets/slides/6_os-2.pdf) &#8226; [Recording](#) 
+Class 1, 2, 3
+<!--: {: .label} Introduction to Cloud Computing 
+   : [Slides](assets/slides/6_os-2.pdf) &#8226; [Recording](#) -->
 : *Reading:*
+* [Multi-Core Scheduling](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf)
+* [Files and Driectories](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)
 * [Understanding the cloud computing stack: SaaS, PaaS, and IaaS (required)](https://www.linkedin.com/pulse/understanding-cloud-computing-stack-saas-paas-iaas-big-steven-murhula/)
 
-Class 2
+<!-- Class 2
 : {: .label} Cloud Computing Basics
   : [Slides](assets/slides/6_os-3.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/7) &#8226; [Scribe Notes](assets/scribe_notes/Jan_24_scribe_note.pdf) 
 : *Reading:*
