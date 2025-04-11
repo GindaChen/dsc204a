@@ -6,6 +6,7 @@ status: Active
 Class 1, 2, 3
 <!--: {: .label} Introduction to Cloud Computing 
    : [Slides](assets/slides/6_os-2.pdf) &#8226; [Recording](#) -->
+: {: .label} Topics in Operating Systems   
 : *Reading:*
 * [Multi-Core Scheduling](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf)
 * [Files and Driectories](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)
