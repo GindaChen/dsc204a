@@ -5,7 +5,8 @@ status: Active
 ---
 
 
-<!-- : {: .label} Introduction to Cloud Computing 
+<!-- 
+: {: .label} Introduction to Cloud Computing 
    : [Slides](assets/slides/6_os-2.pdf) &#8226; [Recording](#) 
 -->
 Classes
