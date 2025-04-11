@@ -11,7 +11,7 @@ status: Active
 -->
 Classes
 : {: .label} Topics in Operating Systems   
-: *Reading:*
+: *Reading (Beyond last weeks reading):*
 * [Multi-Core Scheduling](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf)
 * [Files and Driectories](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)
 * [Understanding the cloud computing stack: SaaS, PaaS, and IaaS (required)](https://www.linkedin.com/pulse/understanding-cloud-computing-stack-saas-paas-iaas-big-steven-murhula/)
