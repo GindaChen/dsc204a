@@ -15,6 +15,7 @@ Classes
 * [Multi-Core Scheduling](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf)
 * [Files and Driectories](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)
 * [Understanding the cloud computing stack: SaaS, PaaS, and IaaS (required)](https://www.linkedin.com/pulse/understanding-cloud-computing-stack-saas-paas-iaas-big-steven-murhula/)
+* [Above the Clouds: A Berkeley View of Cloud Computing (required)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
 
 <!-- Class 2
 : {: .label} Cloud Computing Basics
