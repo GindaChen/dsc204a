@@ -9,7 +9,7 @@ nav_order: 980
 - PA1: Getting Started with Modin and Ray
     - Release Date: Friday, 11th April
     - [Problem Statement and Rubric](https://drive.google.com/file/d/1SZhixvPgaeLfjB9Sgyf2LGgfsrJ9vvzR/view?usp=share_link)
-    - Discussion by TA: April 14th (8pm over Zoom, Link TBA)
+    - Discussion by TA: April 14th (8pm over Zoom, https://ucsd.zoom.us/j/96754773564)
     - Due Date: April 25th
     - [Discussion Session Slides](https://docs.google.com/presentation/d/1CdgJRWoqFlXc-nqZXx7dLSXOn4jO1WDxhSASRS7auRQ/edit?usp=sharing)
 
