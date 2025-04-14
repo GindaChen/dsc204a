@@ -12,6 +12,7 @@ nav_order: 980
     - Discussion by TA: April 14th (8pm over Zoom, https://ucsd.zoom.us/j/96754773564)
     - Due Date: April 25th
     - [Discussion Session Slides](https://docs.google.com/presentation/d/1CdgJRWoqFlXc-nqZXx7dLSXOn4jO1WDxhSASRS7auRQ/edit?usp=sharing)
+    - [Discussion Session Code](https://huggingface.co/datasets/GindaChen/dsc204-data/blob/main/DSC204A_SP25_PA1_Discussion.ipynb)
 
 - PA2: Multi-node data processing and collective communication with Ray
     - Release Date: April 26th 
@@ -21,7 +22,7 @@ nav_order: 980
     - [Discussion Session Slides](assets/discussions/pa2_discussion.pdf)
     - [Discussion Session Notebook](assets/discussions/pa2_discussion.ipynb)
 
-- PA2: Multi-node data processing and collective communication with Ray
+- PA3: Multi-node data processing and collective communication with Ray
     - Release Date: May 11th
     - [Problem Statement and Rubric](#)
     - Discussion by TA: TBA
