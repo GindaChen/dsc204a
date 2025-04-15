@@ -11,7 +11,8 @@ status: Active
 -->
 Classes
 : {: .label} Topics in Operating Systems
-   : [File Systems](https://drive.google.com/file/d/1qiuarHbNA2YVtXIoYPflmzb_22-t7UGw/view?usp=share_link)
+   : [File Systems](https://drive.google.com/file/d/1qiuarHbNA2YVtXIoYPflmzb_22-t7UGw/view?usp=share_link) &#8226;
+   
 : *Required Reading (Beyond last weeks reading):*
 * [Multi-Core Scheduling](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf)
 * [Files and Driectories](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)
