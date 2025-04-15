@@ -10,7 +10,8 @@ status: Active
    : [Slides](assets/slides/6_os-2.pdf) &#8226; [Recording](#) 
 -->
 Classes
-: {: .label} Topics in Operating Systems   
+: {: .label} Topics in Operating Systems
+   : [File Systems](https://drive.google.com/file/d/1qiuarHbNA2YVtXIoYPflmzb_22-t7UGw/view?usp=share_link)
 : *Required Reading (Beyond last weeks reading):*
 * [Multi-Core Scheduling](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf)
 * [Files and Driectories](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)
