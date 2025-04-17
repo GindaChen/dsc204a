@@ -13,6 +13,7 @@ nav_order: 980
     - Due Date: April 25th
     - [Discussion Session Slides](https://docs.google.com/presentation/d/1CdgJRWoqFlXc-nqZXx7dLSXOn4jO1WDxhSASRS7auRQ/edit?usp=sharing)
     - [Discussion Session Code](https://huggingface.co/datasets/GindaChen/dsc204-data/blob/main/DSC204A_SP25_PA1_Discussion.ipynb)
+    - [Discussion Recording](https://piazza.com/class_profile/get_resource/m7mck2x8sid6oq/m9hyqrhwg5l7ll)
 
 - PA2: Multi-node data processing and collective communication with Ray
     - Release Date: April 26th 
