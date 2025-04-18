@@ -51,7 +51,7 @@ nav_order: 980
 
 ### Instructions and Caveats
 - Academic integrity: 
-    - It is okay to discuss the assignment with your peers at a conceptual level. It is also okay to post conceptual or high-level questions, logistical questions, and useful references on Piazza. But do not share any code across teams and do not post any of your solution code for discussion. A team's code submission must be entirely their own.
+    - It is okay to discuss the assignment with your peers at a conceptual level. It is also okay to post conceptual or high-level questions, logistical questions, and useful references on Piazza. But do not share any code across teams and do not post any of your solution code for discussion. A code submission must be entirely your own.
     - Do not go searching for any code posted online by other students or prior editions. We will use advanced program analysis tools to compare your code submissions. These go well beyond basic string or syntactic comparisons to catch plagiarism.
     - If plagiarism is detected in your code or if any other form of academic integrity violation is identified, you will get zero for that component of your score and get downgraded substantially. I will also notify the University authorities for appropriate disciplinary action to be taken, up to and including expulsion from the University.
 - There are no late days for the programming assignments. So, plan your work accordingly! 
