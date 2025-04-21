@@ -11,13 +11,10 @@ status: Active
 -->
 Classes
 : {: .label} Topics in Operating Systems
-   : [File Systems](https://drive.google.com/file/d/1qiuarHbNA2YVtXIoYPflmzb_22-t7UGw/view?usp=share_link) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/7) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0416.pdf)
+   : [File Systems](https://drive.google.com/file/d/1qiuarHbNA2YVtXIoYPflmzb_22-t7UGw/view?usp=share_link) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/7) &#8226; [Scribe Notes 1](assets/scribe_notes/scribe_0416.pdf), [Scribe Notes 2](assets/scribe_notes/scribe_0418.pdf), Scribe Notes 3
+   
+   <!-- [Scribe Notes 3](assets/scribe_notes/scribe_0420.pdf) -->
 
-: {: .label} Topics in Operating Systems
-   : [File Systems](https://drive.google.com/file/d/1qiuarHbNA2YVtXIoYPflmzb_22-t7UGw/view?usp=share_link) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/8) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0418.pdf)
-
-: {: .label} Topics in Operating Systems
-   : [File Systems](https://drive.google.com/file/d/1qiuarHbNA2YVtXIoYPflmzb_22-t7UGw/view?usp=share_link) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/9) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0420.pdf)
 
 : *Required Reading (Beyond last weeks reading):*
 * [Multi-Core Scheduling](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf)
