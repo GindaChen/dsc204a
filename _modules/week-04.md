@@ -4,8 +4,21 @@ class: DSC204A
 status: Active
 ---
 
-<!-- Class 1
-: {: .label} Network - 1
+Classes
+: {: .label} Task Parallelism
+   : [Slides](https://drive.google.com/file/d/11wK6YGqlBk9NtHjXdUSmKTyplsVXmONw/view?usp=share_link)
+: *Reading:*
+* [A Survey of Parallel Computing Models](https://drive.google.com/file/d/1MnxTHt0k3dOCe3w17dpXaYKxpf4Fo_tI/view?usp=share_link)
+
+   
+: {: .label} Data Parallelism   
+   : [Slides](https://drive.google.com/file/d/1xAQKHvKRktyIZRJwrS8uZx2iHD9LtBuc/view?usp=share_link) 
+
+
+
+ : {: .label} Introduction to Cloud Computing
+    : [Slides](https://drive.google.com/file/d/1YFMg-iCwsvSX_wqq3LdIPPCaHmLWfAaY/view?usp=share_link) 
+    
 <!--  : [Slides](assets/slides/8_networking-1.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/9) &#8226; [Scribe Notes](assets/scribe_notes/Jan_29_scribe_note.pdf) 
 : *Reading:*
 * [ Computer Networks: A Systems Approach Chapter 1.3 (required)](https://book.systemsapproach.org/foundation/architecture.html#architecture)
