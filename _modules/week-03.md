@@ -15,7 +15,8 @@ status: Active
 
 9
  : {: .label} Introduction to Cloud Computing
-    : [Slides](https://drive.google.com/file/d/1YFMg-iCwsvSX_wqq3LdIPPCaHmLWfAaY/view?usp=share_link) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/9) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0418.pdf)
+    : [Slides](https://drive.google.com/file/d/1YFMg-iCwsvSX_wqq3LdIPPCaHmLWfAaY/view?usp=share_link) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/9) &#8226; 
+    <!-- [Scribe Notes](assets/scribe_notes/scribe_0418.pdf) -->
 
 : *Required Reading:*
 * [A Survey of Parallel Computing Models](https://drive.google.com/file/d/1MnxTHt0k3dOCe3w17dpXaYKxpf4Fo_tI/view?usp=share_link)
