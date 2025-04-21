@@ -4,43 +4,36 @@ class: DSC204A
 status: Active
 ---
 
-7
-: {: .label} Task Parallelism
-   : [Slides](https://drive.google.com/file/d/11wK6YGqlBk9NtHjXdUSmKTyplsVXmONw/view?usp=share_link) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/7) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0414.pdf)
 
-8
-: {: .label} Data Parallelism
-   : [Slides](https://drive.google.com/file/d/1xAQKHvKRktyIZRJwrS8uZx2iHD9LtBuc/view?usp=share_link) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/8) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0416.pdf) 
+<!-- 
+: {: .label} Introduction to Cloud Computing 
+   : [Slides](assets/slides/6_os-2.pdf) &#8226; [Recording](#) 
+-->
+Classes
+: {: .label} Topics in Operating Systems
+   : [File Systems](https://drive.google.com/file/d/1qiuarHbNA2YVtXIoYPflmzb_22-t7UGw/view?usp=share_link) &#8226; [Recording 1](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/7), [2](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/8), [3](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/9) &#8226; [Scribe Notes 1](assets/scribe_notes/scribe_0416.pdf), [2](assets/scribe_notes/scribe_0418.pdf), [3](assets/scribe_notes/scribe_0420.pdf)
+   
+   <!-- [Scribe Notes 3](assets/scribe_notes/scribe_0420.pdf) -->
 
 
-9
- : {: .label} Introduction to Cloud Computing
-    : [Slides](https://drive.google.com/file/d/1YFMg-iCwsvSX_wqq3LdIPPCaHmLWfAaY/view?usp=share_link) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/9) &#8226; 
-    <!-- [Scribe Notes](assets/scribe_notes/scribe_0418.pdf) -->
+: *Required Reading (Beyond last weeks reading):*
+* [Multi-Core Scheduling](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf)
+* [Files and Directories](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)
+* [Understanding the cloud computing stack: SaaS, PaaS, and IaaS](https://www.linkedin.com/pulse/understanding-cloud-computing-stack-saas-paas-iaas-big-steven-murhula/)
+* [Above the Clouds: A Berkeley View of Cloud Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
 
-: *Required Reading:*
-* [A Survey of Parallel Computing Models](https://drive.google.com/file/d/1MnxTHt0k3dOCe3w17dpXaYKxpf4Fo_tI/view?usp=share_link)
-    
-
-<!--  : [Slides](assets/slides/8_networking-1.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/9) &#8226; [Scribe Notes](assets/scribe_notes/Jan_29_scribe_note.pdf) 
+<!-- Class 2
+: {: .label} Cloud Computing Basics
+  : [Slides](assets/slides/6_os-3.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/7) &#8226; [Scribe Notes](assets/scribe_notes/Jan_24_scribe_note.pdf) 
 : *Reading:*
-* [ Computer Networks: A Systems Approach Chapter 1.3 (required)](https://book.systemsapproach.org/foundation/architecture.html#architecture)
-* [ Computer Networks: A Systems Approach Chapter 1.5 (required)](https://book.systemsapproach.org/foundation/performance.html#performance)
-* [ Computer Networks: A Systems Approach Chapter 1.1, 1.2, 1.4 (optional)](https://book.systemsapproach.org/foundation.html#chapter-1-foundation)
-
-
-Class 2
-: {: .label} Network - 2
-<!--  : [Slides](assets/slides/9_networking-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/10) &#8226; [Scribe Notes](#) 
-: *Reading:* 
-* [Collective communication: theory, practice, and experience Section 1-6 (required)](https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf)
-* [Collective communication: theory, practice, and experience Section 7-10 (optional)](https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf)
+* [Above the Clouds: A Berkeley View of Cloud Computing (required)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
+* [The Datacenter as a Computer Designing Warehouse-Scale Machines Chapter 1 (optional)](https://link.springer.com/chapter/10.1007/978-3-031-01761-2_1)
 
 
 Class 3
-: {: .label} Collective Communication - 1
-<!--  : [Slides](assets/slides/10_collectives.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/11) &#8226; [Scribe Notes](#) 
-: *Reading:* 
-* [Collective communication: theory, practice, and experience Section 1-6 (required)](https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf)
-* [Collective communication: theory, practice, and experience Section 7-10 (optional)](https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf)
+: {: .label} Cloud Computing Basics Continued
+  : [Slides](assets/slides/7_cloud_computing.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/8) &#8226; [Scribe Notes](assets/scribe_notes/Jan_26_scribe_note.pdf) 
+: *Reading:*
+* [Above the Clouds: A Berkeley View of Cloud Computing (required)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
+* [The Datacenter as a Computer Designing Warehouse-Scale Machines Chapter 2 (optional)](https://link.springer.com/chapter/10.1007/978-3-031-01761-2_2)
 -->
