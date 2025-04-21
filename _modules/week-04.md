@@ -7,6 +7,8 @@ status: Active
 Classes
 : {: .label} Task Parallelism
    : [Slides](https://drive.google.com/file/d/11wK6YGqlBk9NtHjXdUSmKTyplsVXmONw/view?usp=share_link)
+
+   
 : *Reading:*
 * [A Survey of Parallel Computing Models](https://drive.google.com/file/d/1MnxTHt0k3dOCe3w17dpXaYKxpf4Fo_tI/view?usp=share_link)
 
