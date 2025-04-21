@@ -11,7 +11,7 @@ status: Active
 -->
 Classes
 : {: .label} Topics in Operating Systems
-   : [File Systems](https://drive.google.com/file/d/1qiuarHbNA2YVtXIoYPflmzb_22-t7UGw/view?usp=share_link) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/7) &#8226; [Scribe Notes 1](assets/scribe_notes/scribe_0416.pdf), [Scribe Notes 2](assets/scribe_notes/scribe_0418.pdf), Scribe Notes 3
+   : [File Systems](https://drive.google.com/file/d/1qiuarHbNA2YVtXIoYPflmzb_22-t7UGw/view?usp=share_link) &#8226; [Recording 1](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/7), [2](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/8), [3](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/9) &#8226; [Scribe Notes 1](assets/scribe_notes/scribe_0416.pdf), [2](assets/scribe_notes/scribe_0418.pdf), [3](assets/scribe_notes/scribe_0420.pdf)
    
    <!-- [Scribe Notes 3](assets/scribe_notes/scribe_0420.pdf) -->
 
