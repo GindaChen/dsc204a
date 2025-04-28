@@ -23,6 +23,8 @@ Classes
 : *Optional Reading:*
 * [Trends and challenges in operating systems—from parallel
 computing to cloud computing](https://drive.google.com/file/d/1FLQ7z1X2OCOo8cmnJ6lO1YQGNaexAeKC/view?usp=share_link)
+
+
 <!--Class 1
 : {: .label} Collective Communication - 2 
 <!--  : [Slides](assets/slides/11_collectives-2.pdf) &#8226; [Recording](https://drive.google.com/file/d/1iknM1y8UnHyFYYYKY3M42p2CYKx7PCCv/view?usp=sharing) &#8226; [Scribe Notes](assets/scribe_notes/Feb_5_scribe_note.pdf) 
