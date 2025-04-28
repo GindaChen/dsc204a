@@ -5,17 +5,17 @@ status: Active
 ---
 
 Classes
-: {: .label} Task Parallelism
-   : [Slides](https://drive.google.com/file/d/11wK6YGqlBk9NtHjXdUSmKTyplsVXmONw/view?usp=share_link) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/10) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0421.pdf)
+: {: .label} OS Topics Continued
+   :  [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/10) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0421.pdf)
 
    
-: {: .label} Data Parallelism   
-   : [Slides](https://drive.google.com/file/d/1xAQKHvKRktyIZRJwrS8uZx2iHD9LtBuc/view?usp=share_link) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/11) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0423.pdf)
+: {: .label} OS Topics Continued   
+   : [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/11) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0423.pdf)
 
 
 
- : {: .label} Introduction to Cloud Computing
-    : [Slides](https://drive.google.com/file/d/1YFMg-iCwsvSX_wqq3LdIPPCaHmLWfAaY/view?usp=share_link) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/12) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0425.pdf)
+ : {: .label} OS Topics Continued
+    : [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/12) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0425.pdf)
 
 : *Required Reading:*
 * [A Survey of Parallel Computing Models](https://drive.google.com/file/d/1MnxTHt0k3dOCe3w17dpXaYKxpf4Fo_tI/view?usp=share_link)
