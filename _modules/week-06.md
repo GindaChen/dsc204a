@@ -7,6 +7,8 @@ status: Active
 Classes
 : {: .label} Networking Fundamentals
    : [Slides](https://drive.google.com/file/d/1-nLDxTU-7e9AGZKjpDIN5OlDiji4Kr3c/view?usp=share_link)
+
+   
 : *Reading*
 * [Computer Networks: A Systems Approach Chapter 1.3](https://book.systemsapproach.org/foundation/architecture.html#architecture)
 * [Computer Networks: A Systems Approach Chapter 1.5](https://book.systemsapproach.org/foundation/performance.html#performance)
