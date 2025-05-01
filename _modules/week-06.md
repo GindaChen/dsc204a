@@ -4,6 +4,14 @@ class: DSC204A
 status: Active
 ---
 
+Classes
+: {: .label} Networking Fundamentals
+   : [Slides](https://drive.google.com/file/d/1-nLDxTU-7e9AGZKjpDIN5OlDiji4Kr3c/view?usp=share_link)
+: *Reading*
+* [Computer Networks: A Systems Approach Chapter 1.3](https://book.systemsapproach.org/foundation/architecture.html#architecture)
+* [Computer Networks: A Systems Approach Chapter 1.5](https://book.systemsapproach.org/foundation/performance.html#performance)
+
+
 <!--Class 1
 : {: .label} Parallelism Basics - 1
 <!--  : [Slides](assets/slides/14_parallelism-1.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/15) &#8226; [Scribe Notes](assets/scribe_notes/Feb_12_scribe_note.pdf) 
