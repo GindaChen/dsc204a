@@ -21,7 +21,7 @@ nav_order: 980
     - Discussion by TA: TBA
     - Due Date: May 10th
     - [Discussion Session Slides](assets/discussions/pa2_discussion.pdf)
-    - [Discussion Session Notebook](assets/discussions/pa2_discussion.ipynb)
+    - [Discussion Session Notebook](assets/discussions/pa2_discussion.zip)
 
 - PA3: Multi-node data processing and collective communication with Ray
     - Release Date: May 11th
