@@ -15,11 +15,11 @@ nav_order: 980
     - [Discussion Session Code](https://huggingface.co/datasets/GindaChen/dsc204-data/blob/main/DSC204A_SP25_PA1_Discussion.ipynb)
     - [Discussion Recording](https://piazza.com/class_profile/get_resource/m7mck2x8sid6oq/m9hyqrhwg5l7ll)
 
-- PA2: Multi-node data processing and collective communication with Ray
-    - Release Date: April 26th 
-    - [Problem Statement and Rubric](#)
-    - Discussion by TA: TBA
-    - Due Date: May 10th
+- PA2: Task Parallelism and Map Reduce
+    - Release Date: May 1st 
+    - [Problem Statement and Rubric](https://www.overleaf.com/read/svczgvcwnxgm#18afcb)
+    - Discussion by TA: May 5th (8pm over Zoom, https://ucsd.zoom.us/j/95908950818)
+    - Due Date: May 13th
     - [Discussion Session Slides](assets/discussions/pa2_discussion.pdf)
     - [Discussion Session Notebook](assets/discussions/pa2_discussion.zip)
 
