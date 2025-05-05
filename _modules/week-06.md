@@ -14,6 +14,9 @@ Classes
 * [Computer Networks: A Systems Approach Chapter 1.3](https://book.systemsapproach.org/foundation/architecture.html#architecture)
 * [Computer Networks: A Systems Approach Chapter 1.5](https://book.systemsapproach.org/foundation/performance.html#performance)
 
+: *Optional Reading*
+* [Serverless Computing - A follow up to Above The Clouds](https://drive.google.com/file/d/1M60tjj5aDuhVO8WbsQnWZynTF6mjqnyL/view?usp=share_link)
+
 
 <!--Class 1
 : {: .label} Parallelism Basics - 1
