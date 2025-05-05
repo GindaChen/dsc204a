@@ -9,7 +9,8 @@ Classes
    : [Slides](https://drive.google.com/file/d/1-nLDxTU-7e9AGZKjpDIN5OlDiji4Kr3c/view?usp=share_link)
 
    
-: *Reading*
+: *Required Reading*
+* [Spoton: A Batch Computing Service for the Spot Market](https://drive.google.com/file/d/1RR79J1Gmk4hx2b0M4-UrDMBrhs30nxFh/view?usp=share_link)
 * [Computer Networks: A Systems Approach Chapter 1.3](https://book.systemsapproach.org/foundation/architecture.html#architecture)
 * [Computer Networks: A Systems Approach Chapter 1.5](https://book.systemsapproach.org/foundation/performance.html#performance)
 
