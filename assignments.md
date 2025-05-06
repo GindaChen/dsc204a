@@ -22,6 +22,8 @@ nav_order: 980
     - Due Date: May 13th
     - [Discussion Session Slides](assets/discussions/pa2_discussion.pdf)
     - [Discussion Session Notebook](assets/discussions/pa2_discussion.zip)
+    - [Discussion Recording](https://piazza.com/class_profile/get_resource/m7mck2x8sid6oq/mabz54m1jwm65t)
+
 
 - PA3: Multi-node data processing and collective communication with Ray
     - Release Date: May 11th
