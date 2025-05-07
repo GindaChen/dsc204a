@@ -6,7 +6,10 @@ status: Active
 
 Classes
 : {: .label} Networking Fundamentals
-   : [Slides](https://drive.google.com/file/d/1-nLDxTU-7e9AGZKjpDIN5OlDiji4Kr3c/view?usp=share_link)
+   : [Networking](https://drive.google.com/file/d/1-nLDxTU-7e9AGZKjpDIN5OlDiji4Kr3c/view?usp=share_link)
+
+: {: .label} Remote Communication
+   : [Remote IPC](https://drive.google.com/file/d/1MYMQUkYVIoaYeSJy0BtqjsIEOivy0Vp3/view?usp=share_link)
 
    
 : *Required Reading*
