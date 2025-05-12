@@ -4,6 +4,22 @@ class: DSC204A
 status: Active
 ---
 
+Class
+: {: .label} Networking fundamentals continued from Week 6
+: {: .label} Remote Communication
+  : [Slides] (https://drive.google.com/file/d/1MYMQUkYVIoaYeSJy0BtqjsIEOivy0Vp3/view?usp=share_link)
+
+
+Class
+: {: .label} Collective Communication
+  : [Slides] (#)
+
+: *Required Reading*
+* [Collective Communication - Theory, Practice and Experience Section 1-6](https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf)
+
+: *Optional Reading*
+* [Collective Communication - Theory, Practice and Experience Section 7-10](https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf)
+  
 <!--Class 1
 : {: .label} Consensus Algorithms 
 <!--  : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#) 
