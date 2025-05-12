@@ -4,15 +4,12 @@ class: DSC204A
 status: Active
 ---
 
-Class
+Classes
 : {: .label} Networking fundamentals continued from Week 6
 : {: .label} Remote Communication
-  : [Slides] (https://drive.google.com/file/d/1MYMQUkYVIoaYeSJy0BtqjsIEOivy0Vp3/view?usp=share_link)
-
-
-Class
+   : [Remote IPC](https://drive.google.com/file/d/1MYMQUkYVIoaYeSJy0BtqjsIEOivy0Vp3/view?usp=share_link)
 : {: .label} Collective Communication
-  : [Slides] (#)
+  : [Collective Comm] (#)
 
 : *Required Reading*
 * [Collective Communication - Theory, Practice and Experience Section 1-6](https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf)
