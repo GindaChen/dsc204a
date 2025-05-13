@@ -5,7 +5,7 @@ status: Active
 ---
 
 Classes
-: {: .label} Networking fundamentals continued from Week 6
+: {: .label} Networking fundamentals continued from Week 6 
 : {: .label} Remote Communication
    : [Remote IPC](https://drive.google.com/file/d/1MYMQUkYVIoaYeSJy0BtqjsIEOivy0Vp3/view?usp=share_link)
 

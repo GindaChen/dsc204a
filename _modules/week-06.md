@@ -6,10 +6,10 @@ status: Active
 
 Classes
 : {: .label} Networking Fundamentals
-   : [Networking](https://drive.google.com/file/d/1-nLDxTU-7e9AGZKjpDIN5OlDiji4Kr3c/view?usp=share_link)
+   : [Slides](https://drive.google.com/file/d/1-nLDxTU-7e9AGZKjpDIN5OlDiji4Kr3c/view?usp=share_link) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/16) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0507.pdf)
 
 : {: .label} Remote Communication
-   : [Remote IPC](https://drive.google.com/file/d/1MYMQUkYVIoaYeSJy0BtqjsIEOivy0Vp3/view?usp=share_link)
+   : [Remote IPC](https://drive.google.com/file/d/1MYMQUkYVIoaYeSJy0BtqjsIEOivy0Vp3/view?usp=share_link) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp25/dsc204a_a00/17) &#8226; [Scribe Notes](assets/scribe_notes/scribe_0509.pdf)
 
    
 : *Required Reading*
