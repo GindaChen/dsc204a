@@ -18,6 +18,10 @@ Classes
 : *Reading*
 * [CHORD](https://drive.google.com/file/d/1B4aymGoN4SSYA_VumDJFYoVLVdEs_Dn6/view?usp=share_link)
 * [RAFT Consensus](https://drive.google.com/file/d/16r66e74YYsqPTfUksPwM0WBUV1x8BBPv/view?usp=share_link)
+
+
+
+
 <!--Class 1
 : {: .label} Batch processing - 2
 <!--  : [Slides](assets/slides/18_batch-processing-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/20) &#8226; [Scribe Notes](#) 
