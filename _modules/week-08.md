@@ -4,6 +4,20 @@ class: DSC204A
 status: Active
 ---
 
+
+Classes
+: {:label} Introduction to Distributed Systems
+  : [Slides](https://drive.google.com/file/d/1ejFGzIBeSrQmmpv9MFX-B3yeC9menZGZ/view?usp=share_link)
+
+: {:label} Replication and Consistency
+  : [Slides](https://drive.google.com/file/d/15wOqGOQUloQ_923Gj3ikzSbhuovzcl5x/view?usp=share_link)
+
+: {:label} Scaleable Storage and Search - the CHORD System
+  : [Slides](https://drive.google.com/file/d/1stjtrMW7f1IrLbFue4fRq7LLJU-qKLrA/view?usp=share_link)
+
+: *Reading*
+* [CHORD](https://drive.google.com/file/d/1B4aymGoN4SSYA_VumDJFYoVLVdEs_Dn6/view?usp=share_link)
+* [RAFT Consensus](https://drive.google.com/file/d/16r66e74YYsqPTfUksPwM0WBUV1x8BBPv/view?usp=share_link)
 <!--Class 1
 : {: .label} Batch processing - 2
 <!--  : [Slides](assets/slides/18_batch-processing-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/20) &#8226; [Scribe Notes](#) 
