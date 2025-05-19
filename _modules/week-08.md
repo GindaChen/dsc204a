@@ -15,6 +15,11 @@ Classes
 : {:label} Scaleable Storage and Search - the CHORD System
   : [Slides](https://drive.google.com/file/d/1stjtrMW7f1IrLbFue4fRq7LLJU-qKLrA/view?usp=share_link)
 
+: {: label} Consensus
+  : [Slides](https://drive.google.com/file/d/1bFrBzZRkG2QYPV4tr1IPF1U7Z83qIMcb/view?usp=share_link)
+  
+  
+
 : *Required Reading*
 * [CHORD](https://drive.google.com/file/d/1B4aymGoN4SSYA_VumDJFYoVLVdEs_Dn6/view?usp=share_link)
 * [RAFT Consensus](https://drive.google.com/file/d/16r66e74YYsqPTfUksPwM0WBUV1x8BBPv/view?usp=share_link)
