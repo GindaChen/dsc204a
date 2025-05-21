@@ -27,7 +27,7 @@ nav_order: 980
 
 - PA3: Multi-node data processing and collective communication with Ray
     - Release Date: May 20th
-    - [Problem Statement and Rubric](https://www.overleaf.com/read/wnhwzgbvcbvn#d0f55e)
+    - [Problem Statement and Rubric](https://drive.google.com/file/d/1SXM5neof73BcgvN2KhL1UVP1V9twWa_R/view?usp=share_link)
     - Discussion by TA: TBA
     - Due Date: June 5th
 
