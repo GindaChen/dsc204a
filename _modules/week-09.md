@@ -4,6 +4,19 @@ class: DSC204A
 status: Active
 ---
 
+Classes
+: {: .label} Replication and Consistency
+  : [Slides]()
+
+: {: .label} Distributed Consensus with RAFT
+  : [Slides]()
+
+: {: .label} May 30th - Guest Lecture, Dr. Dan Fu - Enabling Efficient ML Algorithms via Kernels
+
+: *Required Reading*
+* [TensorFlow: A system for large-scale machine learning (required)](https://arxiv.org/pdf/1605.08695.pdf)
+* [Scaling Distributed Machine Learning with the Parameter Server (required)](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf)
+
 
 <!--Class 1
 : {: .label} Ray
