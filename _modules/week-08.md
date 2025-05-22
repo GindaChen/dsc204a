@@ -9,14 +9,10 @@ Classes
 : {: .label} Introduction to Distributed Systems
   : [Slides](https://drive.google.com/file/d/1ejFGzIBeSrQmmpv9MFX-B3yeC9menZGZ/view?usp=share_link)
 
-: {: .label} Replication and Consistency
-  : [Slides](https://drive.google.com/file/d/15wOqGOQUloQ_923Gj3ikzSbhuovzcl5x/view?usp=share_link)
 
 : {: .label} Scaleable Storage and Search - the CHORD System
   : [Slides](https://drive.google.com/file/d/1stjtrMW7f1IrLbFue4fRq7LLJU-qKLrA/view?usp=share_link)
 
-: {: .label} Consensus
-  : [Slides](https://drive.google.com/file/d/1bFrBzZRkG2QYPV4tr1IPF1U7Z83qIMcb/view?usp=share_link)
   
   
 
