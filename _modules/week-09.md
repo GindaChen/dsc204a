@@ -6,10 +6,10 @@ status: Active
 
 Classes
 : {: .label} Replication and Consistency
-  : [Slides]()
+  : [Slides](https://drive.google.com/file/d/15wOqGOQUloQ_923Gj3ikzSbhuovzcl5x/view?usp=share_link)
 
 : {: .label} Distributed Consensus with RAFT
-  : [Slides]()
+  : [Slides](https://drive.google.com/file/d/1bFrBzZRkG2QYPV4tr1IPF1U7Z83qIMcb/view?usp=share_link)
 
 : {: .label} May 30th - Guest Lecture, Dr. Dan Fu - Enabling Efficient ML Algorithms via Kernels
 
