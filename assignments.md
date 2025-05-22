@@ -29,7 +29,7 @@ nav_order: 980
     - Release Date: May 20th
     - [Problem Statement and Rubric](https://drive.google.com/file/d/1SXM5neof73BcgvN2KhL1UVP1V9twWa_R/view?usp=share_link)
     - [Discussion Session Notebook](assets/discussions/pa3_discussion.ipynb)
-    - Discussion by TA: TBA
+    - Discussion by TA: May 22nd (8pm over Zoom, https://ucsd.zoom.us/j/93835498077)
     - Due Date: June 5th
 
 <!--
