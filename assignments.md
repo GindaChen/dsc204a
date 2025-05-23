@@ -29,6 +29,8 @@ nav_order: 980
     - Release Date: May 20th
     - [Problem Statement and Rubric](https://drive.google.com/file/d/1SXM5neof73BcgvN2KhL1UVP1V9twWa_R/view?usp=share_link)
     - [Discussion Session Notebook](assets/discussions/pa3_discussion.ipynb)
+    - [Discussion Session Slides](https://docs.google.com/presentation/d/1A_wS1kADf0PZpIGqyHDpsmqfkffRJmVw6t9ec9LJ6lY/edit?usp=sharing)
+    - [Discussion Recording](https://piazza.com/class_profile/get_resource/m7mck2x8sid6oq/mb08whz23aeo5)
     - Discussion by TA: May 22nd (8pm over Zoom, https://ucsd.zoom.us/j/93835498077)
     - Due Date: June 5th
 
